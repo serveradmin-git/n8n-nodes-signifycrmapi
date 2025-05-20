@@ -6,12 +6,12 @@
 	"resources": {
 		"credentialDocumentation": [
 			{
-				"url": "https://docs.n8n.io/integrations/builtin/credentials/"
+				"url": "https://github.com/serveradmin-git/n8n-nodes-signifycrmapi"
 			}
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://docs.n8n.io/integrations/builtin/app-nodes/"
+				"url": "https://github.com/serveradmin-git/n8n-nodes-signifycrmapi"
 			}
 		]
 	}
